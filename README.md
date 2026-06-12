@@ -31,4 +31,5 @@ A real-time machine health monitoring system built on Raspberry Pi 3, implementi
 
 ## Course Context
 Advanced Embedded Systems Lab — Industrial Communications Standards
-BEng in Electronic Engineering, Semester 6
+BEng in Electronic Engineering
+Hochschule Hamm-Lippstadt 
