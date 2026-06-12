@@ -30,6 +30,4 @@ A real-time machine health monitoring system built on Raspberry Pi 3, implementi
 | factory/machine2/vibration | KY-002 | ESP-32 |
 
 ## Course Context
-Advanced Embedded Systems Lab — Industrial Communications Standards
-BEng in Electronic Engineering
-Hochschule Hamm-Lippstadt 
+Advanced Embedded Systems Lab — Industrial Communications Standards_BEng in Electronic Engineering_Hochschule Hamm-Lippstadt 
